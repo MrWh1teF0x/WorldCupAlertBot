@@ -1,0 +1,10 @@
+[project]
+name = "world-cup-alert-bot"
+requires-python = ">=3.11"
+version = "0.1.0"
+readme = "README.md"
+dependencies = [
+    "aiogram>=3.29.1",
+    "asyncio>=4.0.0",
+    "logging>=0.4.9.6",
+]
