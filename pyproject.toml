@@ -6,5 +6,6 @@ readme = "README.md"
 dependencies = [
     "aiogram>=3.29.1",
     "asyncio>=4.0.0",
+    "dotenv>=0.9.9",
     "logging>=0.4.9.6",
 ]
